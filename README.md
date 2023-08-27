@@ -1,4 +1,4 @@
-#hello I'm Manyata.
+# hello I'm Manyata.
 ## I'm a 1st yr student at sir mvit bangalore doing my B.E in ECE branch. 
 ## I'm also in the journey of learning web development. 
 <!---
