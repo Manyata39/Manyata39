@@ -1,6 +1,37 @@
-# I'm Manyata, a 4th year student at sir mvit bangalore persuing my B.E from ECE branch.
-## I'm a full stack web developer with knowledge of react js, express js, node js. 
-<!---
-Manyata39/Manyata39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there, I'm Manyata 👋  
+
+## 💻 About Me  
+- 🎓 Final Year **ECE Student** from Bangalore  
+- 💡 Passionate about **Full-Stack Web Development** & solving real-world problems with code  
+- 🌱 Currently learning & building projects using the **MERN Stack (MongoDB, Express.js, React, Node.js)**  
+- 🔗 Interested in **REST APIs** and **AI-integrated applications** 
+
+---
+
+## 🛠️ Tech Stack  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,python)](https://skillicons.dev)  
+
+---
+
+## 🚀 Featured Projects  
+- 📌 **[Article Rewriting Tool](https://article-rewrite.vercel.app/)** – React app with AI-powered rewriting & inline synonym suggestions
+- 📌 **[Personal Blogs Website](https://quickblog-psi.vercel.app/)** – A full-stack web app built using the **MERN stack (MongoDB, Express.js, React, Node.js)**, where you can share blogs with admin login.  
+ 
+
+👉 *More projects on my [GitHub Repositories](https://github.com/Manyata39)*  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manyata39&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manyata39&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Connect With Me  
+- 📧 Email: **manyatasingh2805@gmail.com**  
+- 💼 [LinkedIn](#)  
+
+---
+⭐️ *Thanks for visiting my profile! I’m always open to collaborating on interesting projects.*  
+
