@@ -30,7 +30,7 @@
 
 ## 🌐 Connect With Me  
 - 📧 Email: **manyatasingh2805@gmail.com**  
-- 💼 [LinkedIn](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/manyata-9b847a27b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) 
 
 ---
 ⭐️ *Thanks for visiting my profile! I’m always open to collaborating on interesting projects.*  
