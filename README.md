@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats  
 ![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Manyata39&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manyata39&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Manyata39&layout=compact&theme=tokyonight)  
 
 ---
 
